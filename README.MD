@@ -80,7 +80,7 @@ Something cooler to do, not in order of difficulty:
 - Communicate with an external board using the USART;
 - Change the display with another peripheral and control it using SPI or I2C;
 
-We are really interested to know your experiments and tests, so share it on [X](https://twitter.com/nohatcon), [Linkedin](https://www.linkedin.com/company/berghem-in-the-middle/mycompany/) or [Telegram](https://t.me/joinchat/CM8GDRJqmE3-Ps6rU-W7Bw) and tag us.
+We are really interested to know your experiments and tests, so share it X, LinkedIn or Telegram and tag us ([X](https://twitter.com/nohatcon), [Linkedin](https://www.linkedin.com/company/berghem-in-the-middle/mycompany/), [Telegram](https://t.me/joinchat/CM8GDRJqmE3-Ps6rU-W7Bw)).
 
 Furthermore, we authors are very happy to answer your questions. You can reach out to Nicola on [LinkedIn](https://www.linkedin.com/in/nicola-vaccaro/) and [Telegram](https://t.me/HighSeconds), Marcello on [LinkedIn](https://www.linkedin.com/in/marcello-federici-441b28b/) and [Telegram](https://t.me/Marcio28_99), and me, Jacopo on [LinkedIn](https://www.linkedin.com/in/jacopofederici/) and [Telegram](https://t.me/j_jey).
 
